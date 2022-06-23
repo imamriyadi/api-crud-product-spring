@@ -1,4 +1,7 @@
 package com.imamriyadi.apicrudproductspring
 
-class BaseResponse {
-}
+data class BaseResponse<T>(
+    var status:Boolean= false,
+    var message:String="",
+    var data:T? = null
+)
