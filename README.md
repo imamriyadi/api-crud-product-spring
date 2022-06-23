@@ -1,7 +1,7 @@
 ## Base url
 
 ```
-https://api-crud-member-spring.herokuapp.com/v1
+https://api-crud-product-spring.herokuapp.com/v1
 ```
 
 ## Table endpoints
